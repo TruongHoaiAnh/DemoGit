@@ -4,6 +4,8 @@
  */
 package startgit;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Hoaianh
@@ -16,6 +18,12 @@ public class StartGit {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Hello HoaiAnh!");
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Nhap a= ");
+        int a=sc.nextInt();
+        System.out.print("Nhap b= ");
+        int b=sc.nextInt();
+        System.out.println(a+b);
     }
     
 }
