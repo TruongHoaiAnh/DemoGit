@@ -23,7 +23,7 @@ public class StartGit {
         int a=sc.nextInt();
         System.out.print("Nhap b= ");
         int b=sc.nextInt();
-        System.out.println(a+b);
+        System.out.println("tong a+b= " + a+b);
     }
     
 }
