@@ -1,0 +1,143 @@
+-Why you need to improve your requirements processes?
+
+Mục tiêu cuối cùng của việc cải tiến quy trình là giảm chi phí tạo và bảo trì phần mềm,
+từ đó làm tăng giá trị mà dự án mang lại. Cách để thực hiện điều này bao gồm:
+
+	+Khắc phục các vấn đề gặp phải ở các dự án trước đó
+ phát sinh từ những thiếu sót trong quá trình (thiếu hụt).
+	+ Dự đoán và ngăn ngừa các vấn đề mà bạn có thể gặp phải
+gặp phải trong các dự án tương lai.
+	+Áp dụng các phương pháp hiệu quả và hiệu quả hơn
+những thứ hiện đang được sử dụng.
+
+- How requirements relate to orther project processes
+
++Lập Kế Hoạch Dự Án:
+Yêu cầu là nền tảng của quy trình lập kế hoạch dự án.
+Kế hoạch dự án dựa vào yêu cầu để chọn một chu trình phát triển phần mềm phù hợp và tạo ra ước lượng về nguồn lực và thời gian.
+Kế hoạch dự án có thể chỉ ra rằng không thể triển khai toàn bộ tính năng mong muốn trong phạm vi nguồn lực và thời gian có sẵn.
+
++Theo Dõi và Kiểm Soát Dự Án:
+Theo dõi dự án bao gồm theo dõi tình trạng của dự án để quản lý dự án có thể xem xét liệu việc xây dựng và xác nhận đang tiến hành như dự kiến hay không.
+Nếu không, quản lý dự án, khách hàng hoặc các bên liên quan khác có thể cần yêu cầu điều chỉnh phạm vi thông qua quy trình lập kế hoạch.
+
++Kiểm Soát Thay Đổi:
+Sau khi một tập hợp các yêu cầu đã được định rõ, tất cả các thay đổi và bổ sung sau đó nên được thực hiện thông qua một quy trình kiểm soát thay đổi xác định.
+Các thay đổi yêu cầu sẽ sửa đổi ngăn xếp công việc còn lại và ưu tiên của các mục công việc trong ngăn xếp công việc.
+
++Chấp Nhận & Kiểm Thử Hệ Thống:
+
+Yêu cầu người dùng và yêu cầu chức năng là đầu vào quan trọng cho việc kiểm thử chấp nhận và kiểm thử hệ thống tương ứng.
+Nếu hành vi dự kiến của phần mềm trong các điều kiện khác nhau không được định rõ, các nhà kiểm thử sẽ gặp khó khăn trong việc xác nhận rằng tất cả các chức năng được lập kế hoạch đã được triển khai theo ý định.
+
++Xây Dựng:
+Yêu cầu là cơ sở cho công việc thiết kế và triển khai, và chúng liên kết các sản phẩm công việc xây dựng khác nhau với nhau.
+Sử dụng các cuộc đánh giá thiết kế để đảm bảo rằng các thiết kế đáp ứng đúng các yêu cầu.
+Kiểm thử đơn vị có thể xác định xem mã nguồn có đáp ứng các thông số kỹ thuật thiết kế và các yêu cầu liên quan hay không.
+
++Tài Liệu Người Dùng:
+Tài liệu người dùng phải phản ánh các thay đổi cuối cùng trong các hiển thị giao diện người dùng và các tính năng đã thêm hoặc loại bỏ vào phút chót.
+
+- Requirements and various stakeholder groups(Mối Quan Hệ Giữa Yêu Cầu và Các Nhóm Liên Quan)
+
++có thể nhận thấy rằng các hoạt động yêu cầu trong dự án đôi khi dẫn đến những mối quan hệ đối nghịch. Không phải lúc nào khách hàng cũng cảm thấy rằng các nhà phân tích kinh doanh luôn quan tâm đến lợi ích tốt nhất của họ. Người quản lý sản phẩm cảm thấy thất vọng khi khách hàng yêu cầu những yêu cầu không ngừng thay đổi nhưng lại không muốn trễ ngày giao hàng. 
+Vì thế Nếu  quan tâm đến việc theo đuổi các quy trình yêu cầu tốt hơn, thì phải tôn trọng nhiều mối liên hệ chéo giữa nhóm phát triển phần mềm và nhiều bên liên quan bên ngoài.
+
+
+-Gaining commitment to change(đạt được cam kết cho sự thay đổi )
+
++ tập trung vào việc đạt được sự cam kết cho sự thay đổi trong quy trình yêu cầu và cách xử lý sự kháng cự có thể phát sinh từ các bên liên quan. Sau đây là một số hình thức phản kháng
+
+Kháng Cự và Đồng Thuận:
+Khi thay đổi quy trình yêu cầu, kháng cự từ các bên liên quan là điều tự nhiên.
+Để giảm sự kháng cự, cần giải thích lợi ích của các thay đổi quy trình cho các nhóm liên quan.
+Tiếp cận từ góc độ chung, hỏi ý kiến và tạo sự đồng thuận trong việc tìm ra cách làm mới.
+
+Lợi Ích và Cam Kết:
+Các thay đổi quy trình cần mang lại lợi ích rõ ràng cho tất cả các bên liên quan.
+Cần thúc đẩy sự hiểu biết về lợi ích dài hạn của việc đầu tư thời gian và nỗ lực vào việc cải thiện quy trình yêu cầu.
+
+Cam Kết của Quản Lý:
+Quản lý cần có cam kết thực sự đối với việc cải thiện quy trình yêu cầu, không chỉ là việc cho phép thay đổi.
+Hành động, không chỉ là lời nói, là chứng minh của cam kết đối với chất lượng.
+
++ sau đây là 10 dấu hiệu cho thấy ban lãnh đạo tổ chức của bạn thực sự cam kết đạt đến sự xuất sắc
+quy trình yêu cầu
+1.  Yêu cầu rằng yêu cầu cho một dự án được tài liệu hóa dưới một dạng phù hợp.
+2. Làm việc cùng nhà phân tích kinh doanh để cung cấp yêu cầu kinh doanh cho mỗi dự án.
+3. Mong đợi yêu cầu được xem xét bởi các bên liên quan phù hợp, bao gồm cả họ khi cần thiết.
+4. Yêu cầu các bên liên quan đồng ý với yêu cầu trước khi triển khai mỗi phần của giải pháp.
+5. Đảm bảo rằng kế hoạch dự án bao gồm thời gian và nguồn lực cho các nhiệm vụ yêu cầu.
+6. Hợp tác với các bên liên quan quan trọng khác để thu hút sự tham gia của họ trong các hoạt động yêu cầu.
+7. Thiết lập các cơ chế và chính sách hiệu quả để xử lý các thay đổi yêu cầu.
+8. Đầu tư vào đào tạo, công cụ, sách và các tài nguyên khác cho những người tham gia trong các hoạt động yêu cầu.
+9. Cung cấp nguồn lực và nhân sự cho các hoạt động nhằm cải thiện quy trình yêu cầu của tổ chức.
+10. Tạo điều kiện cho các thành viên trong nhóm dành thời gian cho các hoạt động cải thiện quy trình yêu cầu.
+
+- Fundamentals of software process improvement ( nguyên tắc cơ bản của việc cải thiện quy trình phần mềm )
+
++ Tiếp Cận Tiến Hóa và Liên Tục:
+Cải thiện quy trình nên là một quá trình tiến hóa và liên tục. Thay vì mục tiêu hoàn hảo ngay từ đầu, hãy phát triển và triển khai một số mẫu và quy trình cải thiện và bắt đầu với việc thực hiện.
+Điều chỉnh các phương pháp khi nhóm tích lũy kinh nghiệm với các kỹ thuật mới. Đôi khi, những thay đổi đơn giản và dễ dàng có thể dẫn đến những thành tựu đáng kể.
+
++Người và Tổ Chức Thay Đổi Khi Có Động Cơ:
+Động cơ mạnh nhất để thay đổi là sự đau đớn - sự đau đớn thực sự mà mọi người đã trải qua trong các dự án trước đó. ví dụ:
+Dự án bỏ lỡ thời hạn do yêu cầu phức tạp hơn so với dự kiến.
+Những nhà phát triển phải làm thêm giờ nhiều vì yêu cầu được hiểu lầm hoặc mơ hồ.
+Nỗ lực kiểm tra hệ thống bị lãng phí vì người kiểm tra không hiểu rõ sản phẩm cần làm gì.
+Có chức năng đúng nhưng người dùng không hài lòng vì hiệu suất chậm, khả năng sử dụng kém, hoặc các vấn đề chất lượng khác...
+
++ Thay Đổi Quy Trình Phải Hướng Tới Mục Tiêu:
+Trước khi bắt đầu hành trình đến các quy trình xuất sắc, đảm bảo bạn biết rõ mục tiêu của mình.
+Một bản đồ định hướng xác định các con đường đến mục tiêu của bạn sẽ cải thiện khả năng thành công của quy trình cải thiện.
+
++Xử Lý Hoạt Động Cải Thiện Như Các Dự Án Nhỏ:
+Nhiều sáng kiến cải thiện thất bại vì chúng được lập kế hoạch kém cẩn thận hoặc vì tài nguyên không bao giờ xuất hiện.
+Bao gồm tài nguyên và nhiệm vụ cải thiện quy trình trong kế hoạch tổng thể của dự án. Thực hiện kế hoạch, theo dõi, đo lường và báo cáo như bạn làm cho bất kỳ dự án nào, tỷ lệ cho kích thước của dự án cải thiện.
+
+- Root cause analysis()
+
+
+gốc nhân (Root Cause Analysis - RCA) là một phương pháp quan trọng trong việc nâng cao quy trình làm việc. Bằng cách tập trung vào việc xác định nguyên nhân cơ bản của vấn đề thay vì chỉ xử lý các triệu chứng, RCA giúp tạo ra các cải tiến mang lại lợi ích lớn nhất với thời gian và nguồn lực hạn chế. Quan trọng nhất, RCA hỏi "tại sao" vấn đề tồn tại và liên tục đặt ra câu hỏi này đến khi xác định được nguyên nhân cơ bản, giúp phân biệt rõ ràng giữa triệu chứng và nguyên nhân thực sự của vấn đề. Điều này cung cấp cơ sở cho việc xây dựng các giải pháp hiệu quả và bền vững cho các vấn đề quy trình.
+
+- The process improvement cycle (Chu trình cải tiến quy trình)
+
+Chu trình cải tiến quy trình bao gồm một số bước chính:
++ Đánh giá thực tiễn hiện tại: Đánh giá các quy trình hiện có để xác định điểm mạnh và điểm yếu. Đánh giá này có thể không chính thức, sử dụng các đánh giá trước đó hoặc bảng câu hỏi có cấu trúc, phỏng vấn và thảo luận với các thành viên trong nhóm. Tập trung vào những lĩnh vực gây khó khăn hoặc tiềm ẩn nhiều rủi ro nhất.
+
++Lập kế hoạch hành động cải tiến: Xây dựng kế hoạch hành động dựa trên đánh giá, đặt ra các mục tiêu có thể đo lường được và phân công trách nhiệm. Giới hạn mỗi kế hoạch khoảng 10 mục và tập trung hoàn thành chúng trong vòng 2-3 tháng.
+*Có thể ko nói
+((
+Một kế hoạch cải tiến quản lý yêu cầu bao gồm những hành động này
+mặt hàng:
+Dự thảo quy trình kiểm soát thay đổi yêu cầu.
+Xem xét và sửa đổi quy trình kiểm soát thay đổi.
+Thí điểm quy trình kiểm soát thay đổi với Dự án A.
+Sửa đổi quy trình kiểm soát thay đổi dựa trên phản hồi từ thí điểm.
+Đánh giá các công cụ theo dõi vấn đề và chọn một công cụ hỗ trợ kiểm soát thay đổi
+quá trình.
+Mua công cụ theo dõi vấn đề và tùy chỉnh nó để hỗ trợ kiểm soát thay đổi
+quá trình.
+Triển khai (giới thiệu) quy trình và công cụ kiểm soát thay đổi mới cho tổ chức
+))
++Tạo, thí điểm và triển khai các quy trình: Phát triển các quy trình mới dựa trên kế hoạch hành động, thí điểm chúng ở quy mô nhỏ, thu thập phản hồi và điều chỉnh cho phù hợp. Triển khai các quy trình tinh tế cho cộng đồng lớn hơn, cung cấp đào tạo và hỗ trợ cần thiết.
+
++Đánh giá kết quả: Đánh giá hiệu quả của thí điểm và triển khai, xem xét phản hồi từ người tham gia và các bên liên quan. Đo lường xem các quy trình mới có đạt được kết quả mong muốn hay không và có đủ thời gian để các thay đổi có hiệu lực hay không.
+
+- Requirements engineering process assets 
+ vai trò quan trọng của các tài sản quy trình (process assets) trong việc thúc đẩy hiệu suất và hiệu quả của các quy trình kỹ thuật yêu cầu (requirements engineering) trong dự án.
+
+Các loại tài sản quy trình bao gồm:
++ Checklist: Danh sách liệt kê các hoạt động, sản phẩm hoặc các mục khác cần được ghi chú hoặc xác minh. Checklists giúp đảm bảo rằng những người bận rộn không bỏ sót các chi tiết quan trọng.
+
++ Example: Một ví dụ đại diện cho một loại công việc cụ thể. Cung cấp và chia sẻ các ví dụ tốt khi nhóm dự án tạo ra chúng.
+
++ Plan: Một bản tóm tắt về cách thức một mục tiêu sẽ được thực hiện và những gì cần thiết để đạt được nó.
+
++ Policy: Một nguyên tắc hướng dẫn đặt kỳ vọng của quản lý về các hành vi, hành động và sản phẩm công việc.
+
++Procedure: Một mô tả từng bước về chuỗi công việc thực hiện một hoạt động. Tài liệu hướng dẫn có thể hỗ trợ một quy trình hoặc thủ tục với thông tin hướng dẫn và mẹo hữu ích.
+
++ Process description: Một định nghĩa tài liệu về một tập hợp các hoạt động thực hiện cho một mục đích nào đó. Mô tả quy trình có thể bao gồm mục tiêu của quy trình, các cột mốc chính, các bên tham gia, các bước giao tiếp, đầu vào và đầu ra, sản phẩm cần tạo ra và cách điều chỉnh quy trình cho các tình huống dự án khác nhau.
+
++ Template: Một mẫu mẫu dùng làm hướng dẫn cho việc tạo ra một sản phẩm công việc. Các mẫu cho các tài liệu dự án chính cung cấp nhiều "khe cắm" để ghi chú và tổ chức thông tin. Văn bản hướng dẫn được nhúng trong mẫu sẽ giúp người tác giả tài liệu sử dụng nó một cách hiệu quả. Các mẫu khác xác định một cấu trúc hữu ích cho việc viết một loại thông tin cụ thể, chẳng hạn như yêu cầu chức năng, yếu tố chất lượng, quy tắc kinh doanh hoặc câu chuyện người dùng.
